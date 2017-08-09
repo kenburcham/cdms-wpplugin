@@ -1,0 +1,80 @@
+.map-item {
+  border: 1px solid gray;
+  display: flex;
+  margin-top: -1px;
+}
+
+.map-item-title {
+
+}
+
+.map-item-content {
+  float: right;
+  margin-right: 15px;
+  margin-bottom: 20px;
+}
+
+.map-item-description {
+
+}
+
+.map-item-thumbnail {
+  margin: 20px;
+}
+
+.map-item-thumbnail img {
+  max-width: 150px !important;
+}
+
+.map-item-image {
+
+}
+
+.map-item-file {
+
+}
+
+.aw-highlighted {
+  background-color: #d6e5ff;
+}
+
+
+
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.white-text {
+  fill: white;
+  font-family: sans-serif
+}
+
+.black-text {
+  fill: black;
+  font-family: sans-serif
+}
+
+.fish-dropdown button{
+  padding: 0;
+}
+
+.fish-dropdown {
+  display: inline;
+}
+
+.fish-selector {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.entry-summary {
+  margin-bottom: 20px;
+}
